@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Date Cleaning and Preparation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{New York Inspection Data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Chain Information}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Spatial Data}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Subway Data}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Demographic Data}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Google Web Scraper}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Airbnb Data}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Data Analysis}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{The Class Imbalance Problem}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Analysis Methodology}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Pre-Analysis Variable Selection}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Linear and Quadratic Discriminant Analysis}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.5}{K-Nearest Neighbor}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.6}{Random Forest Analysis}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.7}{Gradient Boosting}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 18

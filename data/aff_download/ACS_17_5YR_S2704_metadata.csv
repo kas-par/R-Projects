@@ -1,0 +1,177 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Civilian noninstitutionalized population
+HC01_MOE_VC01,Total; Margin of Error; Civilian noninstitutionalized population
+HC02_EST_VC01,Public Coverage; Estimate; Civilian noninstitutionalized population
+HC02_MOE_VC01,Public Coverage; Margin of Error; Civilian noninstitutionalized population
+HC03_EST_VC01,Percent Public Coverage; Estimate; Civilian noninstitutionalized population
+HC03_MOE_VC01,Percent Public Coverage; Margin of Error; Civilian noninstitutionalized population
+HC01_EST_VC04,Total; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC01_MOE_VC04,Total; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC02_EST_VC04,Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC02_MOE_VC04,Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC03_EST_VC04,Percent Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC03_MOE_VC04,Percent Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination
+HC01_EST_VC05,Total; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC01_MOE_VC05,Total; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC02_EST_VC05,Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC02_MOE_VC05,Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC03_EST_VC05,Percent Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC03_MOE_VC05,Percent Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - Under 19
+HC01_EST_VC06,Total; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC01_MOE_VC06,Total; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC02_EST_VC06,Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC02_MOE_VC06,Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC03_EST_VC06,Percent Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC03_MOE_VC06,Percent Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 19 to 64 years
+HC01_EST_VC07,Total; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC01_MOE_VC07,Total; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC02_EST_VC07,Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC02_MOE_VC07,Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC03_EST_VC07,Percent Public Coverage; Estimate; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC03_MOE_VC07,Percent Public Coverage; Margin of Error; COVERAGE ALONE OR IN COMBINATION - Medicare coverage alone or in combination - 65 years and over
+HC01_EST_VC09,Total; Estimate; Medicaid/means-tested public coverage alone or in combination
+HC01_MOE_VC09,Total; Margin of Error; Medicaid/means-tested public coverage alone or in combination
+HC02_EST_VC09,Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination
+HC02_MOE_VC09,Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination
+HC03_EST_VC09,Percent Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination
+HC03_MOE_VC09,Percent Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination
+HC01_EST_VC10,Total; Estimate; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC01_MOE_VC10,Total; Margin of Error; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC02_EST_VC10,Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC02_MOE_VC10,Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC03_EST_VC10,Percent Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC03_MOE_VC10,Percent Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - Under 19
+HC01_EST_VC11,Total; Estimate; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC01_MOE_VC11,Total; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC02_EST_VC11,Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC02_MOE_VC11,Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC03_EST_VC11,Percent Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC03_MOE_VC11,Percent Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 19 to 64 years
+HC01_EST_VC12,Total; Estimate; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC01_MOE_VC12,Total; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC02_EST_VC12,Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC02_MOE_VC12,Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC03_EST_VC12,Percent Public Coverage; Estimate; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC03_MOE_VC12,Percent Public Coverage; Margin of Error; Medicaid/means-tested public coverage alone or in combination - 65 years and over
+HC01_EST_VC14,Total; Estimate; VA health care coverage alone or in combination
+HC01_MOE_VC14,Total; Margin of Error; VA health care coverage alone or in combination
+HC02_EST_VC14,Public Coverage; Estimate; VA health care coverage alone or in combination
+HC02_MOE_VC14,Public Coverage; Margin of Error; VA health care coverage alone or in combination
+HC03_EST_VC14,Percent Public Coverage; Estimate; VA health care coverage alone or in combination
+HC03_MOE_VC14,Percent Public Coverage; Margin of Error; VA health care coverage alone or in combination
+HC01_EST_VC15,Total; Estimate; VA health care coverage alone or in combination - Under 19
+HC01_MOE_VC15,Total; Margin of Error; VA health care coverage alone or in combination - Under 19
+HC02_EST_VC15,Public Coverage; Estimate; VA health care coverage alone or in combination - Under 19
+HC02_MOE_VC15,Public Coverage; Margin of Error; VA health care coverage alone or in combination - Under 19
+HC03_EST_VC15,Percent Public Coverage; Estimate; VA health care coverage alone or in combination - Under 19
+HC03_MOE_VC15,Percent Public Coverage; Margin of Error; VA health care coverage alone or in combination - Under 19
+HC01_EST_VC16,Total; Estimate; VA health care coverage alone or in combination - 19 to 64 years
+HC01_MOE_VC16,Total; Margin of Error; VA health care coverage alone or in combination - 19 to 64 years
+HC02_EST_VC16,Public Coverage; Estimate; VA health care coverage alone or in combination - 19 to 64 years
+HC02_MOE_VC16,Public Coverage; Margin of Error; VA health care coverage alone or in combination - 19 to 64 years
+HC03_EST_VC16,Percent Public Coverage; Estimate; VA health care coverage alone or in combination - 19 to 64 years
+HC03_MOE_VC16,Percent Public Coverage; Margin of Error; VA health care coverage alone or in combination - 19 to 64 years
+HC01_EST_VC17,Total; Estimate; VA health care coverage alone or in combination - 65 years and over
+HC01_MOE_VC17,Total; Margin of Error; VA health care coverage alone or in combination - 65 years and over
+HC02_EST_VC17,Public Coverage; Estimate; VA health care coverage alone or in combination - 65 years and over
+HC02_MOE_VC17,Public Coverage; Margin of Error; VA health care coverage alone or in combination - 65 years and over
+HC03_EST_VC17,Percent Public Coverage; Estimate; VA health care coverage alone or in combination - 65 years and over
+HC03_MOE_VC17,Percent Public Coverage; Margin of Error; VA health care coverage alone or in combination - 65 years and over
+HC01_EST_VC20,Total; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC01_MOE_VC20,Total; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC02_EST_VC20,Public Coverage; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC02_MOE_VC20,Public Coverage; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC03_EST_VC20,Percent Public Coverage; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC03_MOE_VC20,Percent Public Coverage; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - Below 138 percent of the poverty threshold
+HC01_EST_VC21,Total; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC01_MOE_VC21,Total; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC02_EST_VC21,Public Coverage; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC02_MOE_VC21,Public Coverage; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC03_EST_VC21,Percent Public Coverage; Estimate; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC03_MOE_VC21,Percent Public Coverage; Margin of Error; PUBLIC HEALTH INSURANCE ALONE OR IN COMBINATION - At or above 138 percent of the poverty threshold
+HC01_EST_VC23,"Total; Estimate; Worked full-time, year-round (19-64 years)"
+HC01_MOE_VC23,"Total; Margin of Error; Worked full-time, year-round (19-64 years)"
+HC02_EST_VC23,"Public Coverage; Estimate; Worked full-time, year-round (19-64 years)"
+HC02_MOE_VC23,"Public Coverage; Margin of Error; Worked full-time, year-round (19-64 years)"
+HC03_EST_VC23,"Percent Public Coverage; Estimate; Worked full-time, year-round (19-64 years)"
+HC03_MOE_VC23,"Percent Public Coverage; Margin of Error; Worked full-time, year-round (19-64 years)"
+HC01_EST_VC25,Total; Estimate; Under 6
+HC01_MOE_VC25,Total; Margin of Error; Under 6
+HC02_EST_VC25,Public Coverage; Estimate; Under 6
+HC02_MOE_VC25,Public Coverage; Margin of Error; Under 6
+HC03_EST_VC25,Percent Public Coverage; Estimate; Under 6
+HC03_MOE_VC25,Percent Public Coverage; Margin of Error; Under 6
+HC01_EST_VC26,Total; Estimate; 6 to 18 years
+HC01_MOE_VC26,Total; Margin of Error; 6 to 18 years
+HC02_EST_VC26,Public Coverage; Estimate; 6 to 18 years
+HC02_MOE_VC26,Public Coverage; Margin of Error; 6 to 18 years
+HC03_EST_VC26,Percent Public Coverage; Estimate; 6 to 18 years
+HC03_MOE_VC26,Percent Public Coverage; Margin of Error; 6 to 18 years
+HC01_EST_VC27,Total; Estimate; 19 to 25 years
+HC01_MOE_VC27,Total; Margin of Error; 19 to 25 years
+HC02_EST_VC27,Public Coverage; Estimate; 19 to 25 years
+HC02_MOE_VC27,Public Coverage; Margin of Error; 19 to 25 years
+HC03_EST_VC27,Percent Public Coverage; Estimate; 19 to 25 years
+HC03_MOE_VC27,Percent Public Coverage; Margin of Error; 19 to 25 years
+HC01_EST_VC28,Total; Estimate; 26 to 34 years
+HC01_MOE_VC28,Total; Margin of Error; 26 to 34 years
+HC02_EST_VC28,Public Coverage; Estimate; 26 to 34 years
+HC02_MOE_VC28,Public Coverage; Margin of Error; 26 to 34 years
+HC03_EST_VC28,Percent Public Coverage; Estimate; 26 to 34 years
+HC03_MOE_VC28,Percent Public Coverage; Margin of Error; 26 to 34 years
+HC01_EST_VC29,Total; Estimate; 35 to 44 years
+HC01_MOE_VC29,Total; Margin of Error; 35 to 44 years
+HC02_EST_VC29,Public Coverage; Estimate; 35 to 44 years
+HC02_MOE_VC29,Public Coverage; Margin of Error; 35 to 44 years
+HC03_EST_VC29,Percent Public Coverage; Estimate; 35 to 44 years
+HC03_MOE_VC29,Percent Public Coverage; Margin of Error; 35 to 44 years
+HC01_EST_VC30,Total; Estimate; 45 to 54 years
+HC01_MOE_VC30,Total; Margin of Error; 45 to 54 years
+HC02_EST_VC30,Public Coverage; Estimate; 45 to 54 years
+HC02_MOE_VC30,Public Coverage; Margin of Error; 45 to 54 years
+HC03_EST_VC30,Percent Public Coverage; Estimate; 45 to 54 years
+HC03_MOE_VC30,Percent Public Coverage; Margin of Error; 45 to 54 years
+HC01_EST_VC31,Total; Estimate; 55 to 64 years
+HC01_MOE_VC31,Total; Margin of Error; 55 to 64 years
+HC02_EST_VC31,Public Coverage; Estimate; 55 to 64 years
+HC02_MOE_VC31,Public Coverage; Margin of Error; 55 to 64 years
+HC03_EST_VC31,Percent Public Coverage; Estimate; 55 to 64 years
+HC03_MOE_VC31,Percent Public Coverage; Margin of Error; 55 to 64 years
+HC01_EST_VC32,Total; Estimate; 65 to 74 years
+HC01_MOE_VC32,Total; Margin of Error; 65 to 74 years
+HC02_EST_VC32,Public Coverage; Estimate; 65 to 74 years
+HC02_MOE_VC32,Public Coverage; Margin of Error; 65 to 74 years
+HC03_EST_VC32,Percent Public Coverage; Estimate; 65 to 74 years
+HC03_MOE_VC32,Percent Public Coverage; Margin of Error; 65 to 74 years
+HC01_EST_VC33,Total; Estimate; 75 years and over
+HC01_MOE_VC33,Total; Margin of Error; 75 years and over
+HC02_EST_VC33,Public Coverage; Estimate; 75 years and over
+HC02_MOE_VC33,Public Coverage; Margin of Error; 75 years and over
+HC03_EST_VC33,Percent Public Coverage; Estimate; 75 years and over
+HC03_MOE_VC33,Percent Public Coverage; Margin of Error; 75 years and over
+HC01_EST_VC36,Total; Estimate; COVERAGE ALONE - Public health insurance alone
+HC01_MOE_VC36,Total; Margin of Error; COVERAGE ALONE - Public health insurance alone
+HC02_EST_VC36,Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone
+HC02_MOE_VC36,Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone
+HC03_EST_VC36,Percent Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone
+HC03_MOE_VC36,Percent Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone
+HC01_EST_VC37,Total; Estimate; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC01_MOE_VC37,Total; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC02_EST_VC37,Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC02_MOE_VC37,Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC03_EST_VC37,Percent Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC03_MOE_VC37,Percent Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicare coverage alone
+HC01_EST_VC38,Total; Estimate; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC01_MOE_VC38,Total; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC02_EST_VC38,Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC02_MOE_VC38,Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC03_EST_VC38,Percent Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC03_MOE_VC38,Percent Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - Medicaid/means tested coverage alone
+HC01_EST_VC39,Total; Estimate; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone
+HC01_MOE_VC39,Total; Margin of Error; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone
+HC02_EST_VC39,Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone
+HC02_MOE_VC39,Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone
+HC03_EST_VC39,Percent Public Coverage; Estimate; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone
+HC03_MOE_VC39,Percent Public Coverage; Margin of Error; COVERAGE ALONE - Public health insurance alone - VA health care coverage alone

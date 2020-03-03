@@ -1,0 +1,17 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Ancestry specified:
+HD02_VD02,Margin of Error; Ancestry specified:
+HD01_VD03,Estimate; Ancestry specified: - Single ancestry
+HD02_VD03,Margin of Error; Ancestry specified: - Single ancestry
+HD01_VD04,Estimate; Ancestry specified: - Multiple ancestry
+HD02_VD04,Margin of Error; Ancestry specified: - Multiple ancestry
+HD01_VD05,Estimate; Ancestry not specified:
+HD02_VD05,Margin of Error; Ancestry not specified:
+HD01_VD06,Estimate; Ancestry not specified: - Ancestry unclassified
+HD02_VD06,Margin of Error; Ancestry not specified: - Ancestry unclassified
+HD01_VD07,Estimate; Ancestry not specified: - Ancestry not reported
+HD02_VD07,Margin of Error; Ancestry not specified: - Ancestry not reported

@@ -1,0 +1,459 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Occupied housing units; Estimate; Occupied housing units
+HC01_MOE_VC01,Occupied housing units; Margin of Error; Occupied housing units
+HC02_EST_VC01,Percent occupied housing units; Estimate; Occupied housing units
+HC02_MOE_VC01,Percent occupied housing units; Margin of Error; Occupied housing units
+HC03_EST_VC01,Owner-occupied housing units; Estimate; Occupied housing units
+HC03_MOE_VC01,Owner-occupied housing units; Margin of Error; Occupied housing units
+HC04_EST_VC01,Percent owner-occupied housing units; Estimate; Occupied housing units
+HC04_MOE_VC01,Percent owner-occupied housing units; Margin of Error; Occupied housing units
+HC05_EST_VC01,Renter-occupied housing units; Estimate; Occupied housing units
+HC05_MOE_VC01,Renter-occupied housing units; Margin of Error; Occupied housing units
+HC06_EST_VC01,Percent renter-occupied housing units; Estimate; Occupied housing units
+HC06_MOE_VC01,Percent renter-occupied housing units; Margin of Error; Occupied housing units
+HC01_EST_VC03,"Occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC01_MOE_VC03,"Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC02_EST_VC03,"Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC02_MOE_VC03,"Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC03_EST_VC03,"Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC03_MOE_VC03,"Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC04_EST_VC03,"Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC04_MOE_VC03,"Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC05_EST_VC03,"Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC05_MOE_VC03,"Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC06_EST_VC03,"Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, detached"
+HC06_MOE_VC03,"Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, detached"
+HC01_EST_VC04,"Occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC01_MOE_VC04,"Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC02_EST_VC04,"Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC02_MOE_VC04,"Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC03_EST_VC04,"Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC03_MOE_VC04,"Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC04_EST_VC04,"Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC04_MOE_VC04,"Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC05_EST_VC04,"Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC05_MOE_VC04,"Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC06_EST_VC04,"Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 1, attached"
+HC06_MOE_VC04,"Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 1, attached"
+HC01_EST_VC05,Occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC01_MOE_VC05,Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC02_EST_VC05,Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC02_MOE_VC05,Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC03_EST_VC05,Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC03_MOE_VC05,Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC04_EST_VC05,Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC04_MOE_VC05,Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC05_EST_VC05,Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC05_MOE_VC05,Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC06_EST_VC05,Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 2 apartments
+HC06_MOE_VC05,Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 2 apartments
+HC01_EST_VC06,Occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC01_MOE_VC06,Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC02_EST_VC06,Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC02_MOE_VC06,Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC03_EST_VC06,Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC03_MOE_VC06,Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC04_EST_VC06,Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC04_MOE_VC06,Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC05_EST_VC06,Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC05_MOE_VC06,Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC06_EST_VC06,Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 3 or 4 apartments
+HC06_MOE_VC06,Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 3 or 4 apartments
+HC01_EST_VC07,Occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC01_MOE_VC07,Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC02_EST_VC07,Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC02_MOE_VC07,Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC03_EST_VC07,Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC03_MOE_VC07,Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC04_EST_VC07,Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC04_MOE_VC07,Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC05_EST_VC07,Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC05_MOE_VC07,Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC06_EST_VC07,Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 5 to 9 apartments
+HC06_MOE_VC07,Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 5 to 9 apartments
+HC01_EST_VC08,Occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC01_MOE_VC08,Occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC02_EST_VC08,Percent occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC02_MOE_VC08,Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC03_EST_VC08,Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC03_MOE_VC08,Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC04_EST_VC08,Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC04_MOE_VC08,Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC05_EST_VC08,Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC05_MOE_VC08,Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC06_EST_VC08,Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - 10 or more apartments
+HC06_MOE_VC08,Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - 10 or more apartments
+HC01_EST_VC09,Occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC01_MOE_VC09,Occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC02_EST_VC09,Percent occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC02_MOE_VC09,Percent occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC03_EST_VC09,Owner-occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC03_MOE_VC09,Owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC04_EST_VC09,Percent owner-occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC04_MOE_VC09,Percent owner-occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC05_EST_VC09,Renter-occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC05_MOE_VC09,Renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC06_EST_VC09,Percent renter-occupied housing units; Estimate; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC06_MOE_VC09,Percent renter-occupied housing units; Margin of Error; UNITS IN STRUCTURE - Mobile home or other type of housing
+HC01_EST_VC12,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC01_MOE_VC12,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC02_EST_VC12,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC02_MOE_VC12,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC03_EST_VC12,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC03_MOE_VC12,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC04_EST_VC12,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC04_MOE_VC12,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC05_EST_VC12,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC05_MOE_VC12,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC06_EST_VC12,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2014 or later
+HC06_MOE_VC12,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2014 or later
+HC01_EST_VC13,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC01_MOE_VC13,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC02_EST_VC13,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC02_MOE_VC13,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC03_EST_VC13,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC03_MOE_VC13,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC04_EST_VC13,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC04_MOE_VC13,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC05_EST_VC13,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC05_MOE_VC13,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC06_EST_VC13,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2010 to 2013
+HC06_MOE_VC13,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2010 to 2013
+HC01_EST_VC14,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC01_MOE_VC14,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC02_EST_VC14,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC02_MOE_VC14,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC03_EST_VC14,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC03_MOE_VC14,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC04_EST_VC14,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC04_MOE_VC14,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC05_EST_VC14,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC05_MOE_VC14,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC06_EST_VC14,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 2000 to 2009
+HC06_MOE_VC14,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 2000 to 2009
+HC01_EST_VC15,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC01_MOE_VC15,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC02_EST_VC15,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC02_MOE_VC15,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC03_EST_VC15,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC03_MOE_VC15,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC04_EST_VC15,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC04_MOE_VC15,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC05_EST_VC15,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC05_MOE_VC15,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC06_EST_VC15,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1980 to 1999
+HC06_MOE_VC15,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1980 to 1999
+HC01_EST_VC16,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC01_MOE_VC16,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC02_EST_VC16,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC02_MOE_VC16,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC03_EST_VC16,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC03_MOE_VC16,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC04_EST_VC16,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC04_MOE_VC16,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC05_EST_VC16,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC05_MOE_VC16,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC06_EST_VC16,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1960 to 1979
+HC06_MOE_VC16,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1960 to 1979
+HC01_EST_VC17,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC01_MOE_VC17,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC02_EST_VC17,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC02_MOE_VC17,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC03_EST_VC17,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC03_MOE_VC17,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC04_EST_VC17,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC04_MOE_VC17,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC05_EST_VC17,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC05_MOE_VC17,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC06_EST_VC17,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1940 to 1959
+HC06_MOE_VC17,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1940 to 1959
+HC01_EST_VC18,Occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC01_MOE_VC18,Occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC02_EST_VC18,Percent occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC02_MOE_VC18,Percent occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC03_EST_VC18,Owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC03_MOE_VC18,Owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC04_EST_VC18,Percent owner-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC04_MOE_VC18,Percent owner-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC05_EST_VC18,Renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC05_MOE_VC18,Renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC06_EST_VC18,Percent renter-occupied housing units; Estimate; YEAR STRUCTURE BUILT - 1939 or earlier
+HC06_MOE_VC18,Percent renter-occupied housing units; Margin of Error; YEAR STRUCTURE BUILT - 1939 or earlier
+HC01_EST_VC21,Occupied housing units; Estimate; ROOMS - 1 room
+HC01_MOE_VC21,Occupied housing units; Margin of Error; ROOMS - 1 room
+HC02_EST_VC21,Percent occupied housing units; Estimate; ROOMS - 1 room
+HC02_MOE_VC21,Percent occupied housing units; Margin of Error; ROOMS - 1 room
+HC03_EST_VC21,Owner-occupied housing units; Estimate; ROOMS - 1 room
+HC03_MOE_VC21,Owner-occupied housing units; Margin of Error; ROOMS - 1 room
+HC04_EST_VC21,Percent owner-occupied housing units; Estimate; ROOMS - 1 room
+HC04_MOE_VC21,Percent owner-occupied housing units; Margin of Error; ROOMS - 1 room
+HC05_EST_VC21,Renter-occupied housing units; Estimate; ROOMS - 1 room
+HC05_MOE_VC21,Renter-occupied housing units; Margin of Error; ROOMS - 1 room
+HC06_EST_VC21,Percent renter-occupied housing units; Estimate; ROOMS - 1 room
+HC06_MOE_VC21,Percent renter-occupied housing units; Margin of Error; ROOMS - 1 room
+HC01_EST_VC22,Occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC01_MOE_VC22,Occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC02_EST_VC22,Percent occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC02_MOE_VC22,Percent occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC03_EST_VC22,Owner-occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC03_MOE_VC22,Owner-occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC04_EST_VC22,Percent owner-occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC04_MOE_VC22,Percent owner-occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC05_EST_VC22,Renter-occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC05_MOE_VC22,Renter-occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC06_EST_VC22,Percent renter-occupied housing units; Estimate; ROOMS - 2 or 3 rooms
+HC06_MOE_VC22,Percent renter-occupied housing units; Margin of Error; ROOMS - 2 or 3 rooms
+HC01_EST_VC23,Occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC01_MOE_VC23,Occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC02_EST_VC23,Percent occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC02_MOE_VC23,Percent occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC03_EST_VC23,Owner-occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC03_MOE_VC23,Owner-occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC04_EST_VC23,Percent owner-occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC04_MOE_VC23,Percent owner-occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC05_EST_VC23,Renter-occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC05_MOE_VC23,Renter-occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC06_EST_VC23,Percent renter-occupied housing units; Estimate; ROOMS - 4 or 5 rooms
+HC06_MOE_VC23,Percent renter-occupied housing units; Margin of Error; ROOMS - 4 or 5 rooms
+HC01_EST_VC24,Occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC01_MOE_VC24,Occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC02_EST_VC24,Percent occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC02_MOE_VC24,Percent occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC03_EST_VC24,Owner-occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC03_MOE_VC24,Owner-occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC04_EST_VC24,Percent owner-occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC04_MOE_VC24,Percent owner-occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC05_EST_VC24,Renter-occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC05_MOE_VC24,Renter-occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC06_EST_VC24,Percent renter-occupied housing units; Estimate; ROOMS - 6 or 7 rooms
+HC06_MOE_VC24,Percent renter-occupied housing units; Margin of Error; ROOMS - 6 or 7 rooms
+HC01_EST_VC25,Occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC01_MOE_VC25,Occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC02_EST_VC25,Percent occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC02_MOE_VC25,Percent occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC03_EST_VC25,Owner-occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC03_MOE_VC25,Owner-occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC04_EST_VC25,Percent owner-occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC04_MOE_VC25,Percent owner-occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC05_EST_VC25,Renter-occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC05_MOE_VC25,Renter-occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC06_EST_VC25,Percent renter-occupied housing units; Estimate; ROOMS - 8 or more rooms
+HC06_MOE_VC25,Percent renter-occupied housing units; Margin of Error; ROOMS - 8 or more rooms
+HC01_EST_VC28,Occupied housing units; Estimate; BEDROOMS - No bedroom
+HC01_MOE_VC28,Occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC02_EST_VC28,Percent occupied housing units; Estimate; BEDROOMS - No bedroom
+HC02_MOE_VC28,Percent occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC03_EST_VC28,Owner-occupied housing units; Estimate; BEDROOMS - No bedroom
+HC03_MOE_VC28,Owner-occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC04_EST_VC28,Percent owner-occupied housing units; Estimate; BEDROOMS - No bedroom
+HC04_MOE_VC28,Percent owner-occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC05_EST_VC28,Renter-occupied housing units; Estimate; BEDROOMS - No bedroom
+HC05_MOE_VC28,Renter-occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC06_EST_VC28,Percent renter-occupied housing units; Estimate; BEDROOMS - No bedroom
+HC06_MOE_VC28,Percent renter-occupied housing units; Margin of Error; BEDROOMS - No bedroom
+HC01_EST_VC29,Occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC01_MOE_VC29,Occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC02_EST_VC29,Percent occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC02_MOE_VC29,Percent occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC03_EST_VC29,Owner-occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC03_MOE_VC29,Owner-occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC04_EST_VC29,Percent owner-occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC04_MOE_VC29,Percent owner-occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC05_EST_VC29,Renter-occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC05_MOE_VC29,Renter-occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC06_EST_VC29,Percent renter-occupied housing units; Estimate; BEDROOMS - 1 bedroom
+HC06_MOE_VC29,Percent renter-occupied housing units; Margin of Error; BEDROOMS - 1 bedroom
+HC01_EST_VC30,Occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC01_MOE_VC30,Occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC02_EST_VC30,Percent occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC02_MOE_VC30,Percent occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC03_EST_VC30,Owner-occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC03_MOE_VC30,Owner-occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC04_EST_VC30,Percent owner-occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC04_MOE_VC30,Percent owner-occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC05_EST_VC30,Renter-occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC05_MOE_VC30,Renter-occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC06_EST_VC30,Percent renter-occupied housing units; Estimate; BEDROOMS - 2 or 3 bedrooms
+HC06_MOE_VC30,Percent renter-occupied housing units; Margin of Error; BEDROOMS - 2 or 3 bedrooms
+HC01_EST_VC31,Occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC01_MOE_VC31,Occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC02_EST_VC31,Percent occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC02_MOE_VC31,Percent occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC03_EST_VC31,Owner-occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC03_MOE_VC31,Owner-occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC04_EST_VC31,Percent owner-occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC04_MOE_VC31,Percent owner-occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC05_EST_VC31,Renter-occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC05_MOE_VC31,Renter-occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC06_EST_VC31,Percent renter-occupied housing units; Estimate; BEDROOMS - 4 or more bedrooms
+HC06_MOE_VC31,Percent renter-occupied housing units; Margin of Error; BEDROOMS - 4 or more bedrooms
+HC01_EST_VC34,Occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC01_MOE_VC34,Occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC02_EST_VC34,Percent occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC02_MOE_VC34,Percent occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC03_EST_VC34,Owner-occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC03_MOE_VC34,Owner-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC04_EST_VC34,Percent owner-occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC04_MOE_VC34,Percent owner-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC05_EST_VC34,Renter-occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC05_MOE_VC34,Renter-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC06_EST_VC34,Percent renter-occupied housing units; Estimate; COMPLETE FACILITIES - With complete plumbing facilities
+HC06_MOE_VC34,Percent renter-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete plumbing facilities
+HC01_EST_VC35,Occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC01_MOE_VC35,Occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC02_EST_VC35,Percent occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC02_MOE_VC35,Percent occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC03_EST_VC35,Owner-occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC03_MOE_VC35,Owner-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC04_EST_VC35,Percent owner-occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC04_MOE_VC35,Percent owner-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC05_EST_VC35,Renter-occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC05_MOE_VC35,Renter-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC06_EST_VC35,Percent renter-occupied housing units; Estimate; COMPLETE FACILITIES - With complete kitchen facilities
+HC06_MOE_VC35,Percent renter-occupied housing units; Margin of Error; COMPLETE FACILITIES - With complete kitchen facilities
+HC01_EST_VC38,Occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC01_MOE_VC38,Occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC02_EST_VC38,Percent occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC02_MOE_VC38,Percent occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC03_EST_VC38,Owner-occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC03_MOE_VC38,Owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC04_EST_VC38,Percent owner-occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC04_MOE_VC38,Percent owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC05_EST_VC38,Renter-occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC05_MOE_VC38,Renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC06_EST_VC38,Percent renter-occupied housing units; Estimate; VEHICLES AVAILABLE - No vehicle available
+HC06_MOE_VC38,Percent renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - No vehicle available
+HC01_EST_VC39,Occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC01_MOE_VC39,Occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC02_EST_VC39,Percent occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC02_MOE_VC39,Percent occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC03_EST_VC39,Owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC03_MOE_VC39,Owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC04_EST_VC39,Percent owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC04_MOE_VC39,Percent owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC05_EST_VC39,Renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC05_MOE_VC39,Renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC06_EST_VC39,Percent renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 1 vehicle available
+HC06_MOE_VC39,Percent renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 1 vehicle available
+HC01_EST_VC40,Occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC01_MOE_VC40,Occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC02_EST_VC40,Percent occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC02_MOE_VC40,Percent occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC03_EST_VC40,Owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC03_MOE_VC40,Owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC04_EST_VC40,Percent owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC04_MOE_VC40,Percent owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC05_EST_VC40,Renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC05_MOE_VC40,Renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC06_EST_VC40,Percent renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 2 vehicles available
+HC06_MOE_VC40,Percent renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 2 vehicles available
+HC01_EST_VC41,Occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC01_MOE_VC41,Occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC02_EST_VC41,Percent occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC02_MOE_VC41,Percent occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC03_EST_VC41,Owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC03_MOE_VC41,Owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC04_EST_VC41,Percent owner-occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC04_MOE_VC41,Percent owner-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC05_EST_VC41,Renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC05_MOE_VC41,Renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC06_EST_VC41,Percent renter-occupied housing units; Estimate; VEHICLES AVAILABLE - 3 or more vehicles available
+HC06_MOE_VC41,Percent renter-occupied housing units; Margin of Error; VEHICLES AVAILABLE - 3 or more vehicles available
+HC01_EST_VC44,Occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC01_MOE_VC44,Occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC02_EST_VC44,Percent occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC02_MOE_VC44,Percent occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC03_EST_VC44,Owner-occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC03_MOE_VC44,Owner-occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC04_EST_VC44,Percent owner-occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC04_MOE_VC44,Percent owner-occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC05_EST_VC44,Renter-occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC05_MOE_VC44,Renter-occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC06_EST_VC44,Percent renter-occupied housing units; Estimate; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC06_MOE_VC44,Percent renter-occupied housing units; Margin of Error; TELEPHONE SERVICE AVAILABLE - With telephone service
+HC01_EST_VC47,Occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC01_MOE_VC47,Occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC02_EST_VC47,Percent occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC02_MOE_VC47,Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC03_EST_VC47,Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC03_MOE_VC47,Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC04_EST_VC47,Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC04_MOE_VC47,Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC05_EST_VC47,Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC05_MOE_VC47,Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC06_EST_VC47,Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Utility gas
+HC06_MOE_VC47,Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Utility gas
+HC01_EST_VC48,"Occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC01_MOE_VC48,"Occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC02_EST_VC48,"Percent occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC02_MOE_VC48,"Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC03_EST_VC48,"Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC03_MOE_VC48,"Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC04_EST_VC48,"Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC04_MOE_VC48,"Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC05_EST_VC48,"Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC05_MOE_VC48,"Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC06_EST_VC48,"Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC06_MOE_VC48,"Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Bottled, tank, or LP gas"
+HC01_EST_VC49,Occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC01_MOE_VC49,Occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC02_EST_VC49,Percent occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC02_MOE_VC49,Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC03_EST_VC49,Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC03_MOE_VC49,Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC04_EST_VC49,Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC04_MOE_VC49,Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC05_EST_VC49,Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC05_MOE_VC49,Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC06_EST_VC49,Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Electricity
+HC06_MOE_VC49,Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Electricity
+HC01_EST_VC50,"Occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC01_MOE_VC50,"Occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC02_EST_VC50,"Percent occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC02_MOE_VC50,"Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC03_EST_VC50,"Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC03_MOE_VC50,"Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC04_EST_VC50,"Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC04_MOE_VC50,"Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC05_EST_VC50,"Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC05_MOE_VC50,"Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC06_EST_VC50,"Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC06_MOE_VC50,"Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Fuel oil, kerosene, etc."
+HC01_EST_VC51,Occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC01_MOE_VC51,Occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC02_EST_VC51,Percent occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC02_MOE_VC51,Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC03_EST_VC51,Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC03_MOE_VC51,Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC04_EST_VC51,Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC04_MOE_VC51,Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC05_EST_VC51,Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC05_MOE_VC51,Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC06_EST_VC51,Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - Coal or coke
+HC06_MOE_VC51,Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - Coal or coke
+HC01_EST_VC52,Occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC01_MOE_VC52,Occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC02_EST_VC52,Percent occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC02_MOE_VC52,Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC03_EST_VC52,Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC03_MOE_VC52,Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC04_EST_VC52,Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC04_MOE_VC52,Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC05_EST_VC52,Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC05_MOE_VC52,Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC06_EST_VC52,Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - All other fuels
+HC06_MOE_VC52,Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - All other fuels
+HC01_EST_VC53,Occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC01_MOE_VC53,Occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used
+HC02_EST_VC53,Percent occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC02_MOE_VC53,Percent occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used
+HC03_EST_VC53,Owner-occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC03_MOE_VC53,Owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used
+HC04_EST_VC53,Percent owner-occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC04_MOE_VC53,Percent owner-occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used
+HC05_EST_VC53,Renter-occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC05_MOE_VC53,Renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used
+HC06_EST_VC53,Percent renter-occupied housing units; Estimate; HOUSE HEATING FUEL - No fuel used
+HC06_MOE_VC53,Percent renter-occupied housing units; Margin of Error; HOUSE HEATING FUEL - No fuel used

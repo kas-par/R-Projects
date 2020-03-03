@@ -1,0 +1,459 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Households
+HC01_MOE_VC01,Total; Margin of Error; Households
+HC02_EST_VC01,Percent; Estimate; Households
+HC02_MOE_VC01,Percent; Margin of Error; Households
+HC03_EST_VC01,Households receiving food stamps/SNAP; Estimate; Households
+HC03_MOE_VC01,Households receiving food stamps/SNAP; Margin of Error; Households
+HC04_EST_VC01,Percent households receiving food stamps/SNAP; Estimate; Households
+HC04_MOE_VC01,Percent households receiving food stamps/SNAP; Margin of Error; Households
+HC05_EST_VC01,Households not receiving food stamps/SNAP; Estimate; Households
+HC05_MOE_VC01,Households not receiving food stamps/SNAP; Margin of Error; Households
+HC06_EST_VC01,Percent households not receiving food stamps/SNAP; Estimate; Households
+HC06_MOE_VC01,Percent households not receiving food stamps/SNAP; Margin of Error; Households
+HC01_EST_VC02,Total; Estimate; With one or more people in the household 60 years and over
+HC01_MOE_VC02,Total; Margin of Error; With one or more people in the household 60 years and over
+HC02_EST_VC02,Percent; Estimate; With one or more people in the household 60 years and over
+HC02_MOE_VC02,Percent; Margin of Error; With one or more people in the household 60 years and over
+HC03_EST_VC02,Households receiving food stamps/SNAP; Estimate; With one or more people in the household 60 years and over
+HC03_MOE_VC02,Households receiving food stamps/SNAP; Margin of Error; With one or more people in the household 60 years and over
+HC04_EST_VC02,Percent households receiving food stamps/SNAP; Estimate; With one or more people in the household 60 years and over
+HC04_MOE_VC02,Percent households receiving food stamps/SNAP; Margin of Error; With one or more people in the household 60 years and over
+HC05_EST_VC02,Households not receiving food stamps/SNAP; Estimate; With one or more people in the household 60 years and over
+HC05_MOE_VC02,Households not receiving food stamps/SNAP; Margin of Error; With one or more people in the household 60 years and over
+HC06_EST_VC02,Percent households not receiving food stamps/SNAP; Estimate; With one or more people in the household 60 years and over
+HC06_MOE_VC02,Percent households not receiving food stamps/SNAP; Margin of Error; With one or more people in the household 60 years and over
+HC01_EST_VC03,Total; Estimate; No people in the household 60 years and over
+HC01_MOE_VC03,Total; Margin of Error; No people in the household 60 years and over
+HC02_EST_VC03,Percent; Estimate; No people in the household 60 years and over
+HC02_MOE_VC03,Percent; Margin of Error; No people in the household 60 years and over
+HC03_EST_VC03,Households receiving food stamps/SNAP; Estimate; No people in the household 60 years and over
+HC03_MOE_VC03,Households receiving food stamps/SNAP; Margin of Error; No people in the household 60 years and over
+HC04_EST_VC03,Percent households receiving food stamps/SNAP; Estimate; No people in the household 60 years and over
+HC04_MOE_VC03,Percent households receiving food stamps/SNAP; Margin of Error; No people in the household 60 years and over
+HC05_EST_VC03,Households not receiving food stamps/SNAP; Estimate; No people in the household 60 years and over
+HC05_MOE_VC03,Households not receiving food stamps/SNAP; Margin of Error; No people in the household 60 years and over
+HC06_EST_VC03,Percent households not receiving food stamps/SNAP; Estimate; No people in the household 60 years and over
+HC06_MOE_VC03,Percent households not receiving food stamps/SNAP; Margin of Error; No people in the household 60 years and over
+HC01_EST_VC06,Total; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC01_MOE_VC06,Total; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC02_EST_VC06,Percent; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC02_MOE_VC06,Percent; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC03_EST_VC06,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC03_MOE_VC06,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC04_EST_VC06,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC04_MOE_VC06,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC05_EST_VC06,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC05_MOE_VC06,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC06_EST_VC06,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Married-couple family
+HC06_MOE_VC06,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Married-couple family
+HC01_EST_VC07,Total; Estimate; HOUSEHOLD TYPE - Other family:
+HC01_MOE_VC07,Total; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC02_EST_VC07,Percent; Estimate; HOUSEHOLD TYPE - Other family:
+HC02_MOE_VC07,Percent; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC03_EST_VC07,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family:
+HC03_MOE_VC07,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC04_EST_VC07,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family:
+HC04_MOE_VC07,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC05_EST_VC07,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family:
+HC05_MOE_VC07,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC06_EST_VC07,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family:
+HC06_MOE_VC07,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family:
+HC01_EST_VC08,"Total; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC01_MOE_VC08,"Total; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC02_EST_VC08,"Percent; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC02_MOE_VC08,"Percent; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC03_EST_VC08,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC03_MOE_VC08,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC04_EST_VC08,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC04_MOE_VC08,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC05_EST_VC08,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC05_MOE_VC08,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC06_EST_VC08,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC06_MOE_VC08,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Male householder, no wife present"
+HC01_EST_VC09,"Total; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC01_MOE_VC09,"Total; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC02_EST_VC09,"Percent; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC02_MOE_VC09,"Percent; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC03_EST_VC09,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC03_MOE_VC09,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC04_EST_VC09,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC04_MOE_VC09,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC05_EST_VC09,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC05_MOE_VC09,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC06_EST_VC09,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC06_MOE_VC09,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Other family: - Female householder, no husband present"
+HC01_EST_VC10,Total; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC01_MOE_VC10,Total; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC02_EST_VC10,Percent; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC02_MOE_VC10,Percent; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC03_EST_VC10,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC03_MOE_VC10,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC04_EST_VC10,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC04_MOE_VC10,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC05_EST_VC10,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC05_MOE_VC10,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC06_EST_VC10,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - Nonfamily households
+HC06_MOE_VC10,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - Nonfamily households
+HC01_EST_VC11,Total; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC01_MOE_VC11,Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC02_EST_VC11,Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC02_MOE_VC11,Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC03_EST_VC11,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC03_MOE_VC11,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC04_EST_VC11,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC04_MOE_VC11,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC05_EST_VC11,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC05_MOE_VC11,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC06_EST_VC11,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years
+HC06_MOE_VC11,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years
+HC01_EST_VC12,Total; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC01_MOE_VC12,Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC02_EST_VC12,Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC02_MOE_VC12,Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC03_EST_VC12,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC03_MOE_VC12,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC04_EST_VC12,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC04_MOE_VC12,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC05_EST_VC12,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC05_MOE_VC12,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC06_EST_VC12,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC06_MOE_VC12,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Married-couple family
+HC01_EST_VC13,Total; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC01_MOE_VC13,Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC02_EST_VC13,Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC02_MOE_VC13,Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC03_EST_VC13,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC03_MOE_VC13,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC04_EST_VC13,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC04_MOE_VC13,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC05_EST_VC13,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC05_MOE_VC13,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC06_EST_VC13,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC06_MOE_VC13,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family:
+HC01_EST_VC14,"Total; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC01_MOE_VC14,"Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC02_EST_VC14,"Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC02_MOE_VC14,"Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC03_EST_VC14,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC03_MOE_VC14,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC04_EST_VC14,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC04_MOE_VC14,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC05_EST_VC14,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC05_MOE_VC14,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC06_EST_VC14,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC06_MOE_VC14,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Male householder, no wife present"
+HC01_EST_VC15,"Total; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC01_MOE_VC15,"Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC02_EST_VC15,"Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC02_MOE_VC15,"Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC03_EST_VC15,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC03_MOE_VC15,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC04_EST_VC15,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC04_MOE_VC15,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC05_EST_VC15,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC05_MOE_VC15,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC06_EST_VC15,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC06_MOE_VC15,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Other family: - Female householder, no husband present"
+HC01_EST_VC16,Total; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC01_MOE_VC16,Total; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC02_EST_VC16,Percent; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC02_MOE_VC16,Percent; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC03_EST_VC16,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC03_MOE_VC16,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC04_EST_VC16,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC04_MOE_VC16,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC05_EST_VC16,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC05_MOE_VC16,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC06_EST_VC16,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC06_MOE_VC16,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - With children under 18 years - Nonfamily households
+HC01_EST_VC17,Total; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC01_MOE_VC17,Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC02_EST_VC17,Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC02_MOE_VC17,Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC03_EST_VC17,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC03_MOE_VC17,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC04_EST_VC17,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC04_MOE_VC17,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC05_EST_VC17,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC05_MOE_VC17,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC06_EST_VC17,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years
+HC06_MOE_VC17,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years
+HC01_EST_VC18,Total; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC01_MOE_VC18,Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC02_EST_VC18,Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC02_MOE_VC18,Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC03_EST_VC18,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC03_MOE_VC18,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC04_EST_VC18,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC04_MOE_VC18,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC05_EST_VC18,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC05_MOE_VC18,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC06_EST_VC18,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC06_MOE_VC18,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Married-couple family
+HC01_EST_VC19,Total; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC01_MOE_VC19,Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC02_EST_VC19,Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC02_MOE_VC19,Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC03_EST_VC19,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC03_MOE_VC19,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC04_EST_VC19,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC04_MOE_VC19,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC05_EST_VC19,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC05_MOE_VC19,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC06_EST_VC19,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC06_MOE_VC19,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family:
+HC01_EST_VC20,"Total; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC01_MOE_VC20,"Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC02_EST_VC20,"Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC02_MOE_VC20,"Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC03_EST_VC20,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC03_MOE_VC20,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC04_EST_VC20,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC04_MOE_VC20,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC05_EST_VC20,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC05_MOE_VC20,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC06_EST_VC20,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC06_MOE_VC20,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Male householder, no wife present"
+HC01_EST_VC21,"Total; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC01_MOE_VC21,"Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC02_EST_VC21,"Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC02_MOE_VC21,"Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC03_EST_VC21,"Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC03_MOE_VC21,"Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC04_EST_VC21,"Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC04_MOE_VC21,"Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC05_EST_VC21,"Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC05_MOE_VC21,"Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC06_EST_VC21,"Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC06_MOE_VC21,"Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Other family: - Female householder, no husband present"
+HC01_EST_VC22,Total; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC01_MOE_VC22,Total; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC02_EST_VC22,Percent; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC02_MOE_VC22,Percent; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC03_EST_VC22,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC03_MOE_VC22,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC04_EST_VC22,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC04_MOE_VC22,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC05_EST_VC22,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC05_MOE_VC22,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC06_EST_VC22,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC06_MOE_VC22,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD TYPE - No children under 18 years - Nonfamily households
+HC01_EST_VC25,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_MOE_VC25,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_EST_VC25,Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC02_MOE_VC25,Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_EST_VC25,Households receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC03_MOE_VC25,Households receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC04_EST_VC25,Percent households receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC04_MOE_VC25,Percent households receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC05_EST_VC25,Households not receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC05_MOE_VC25,Households not receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC06_EST_VC25,Percent households not receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC06_MOE_VC25,Percent households not receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Below poverty level
+HC01_EST_VC26,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC01_MOE_VC26,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC02_EST_VC26,Percent; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC02_MOE_VC26,Percent; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC03_EST_VC26,Households receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC03_MOE_VC26,Households receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC04_EST_VC26,Percent households receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC04_MOE_VC26,Percent households receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC05_EST_VC26,Households not receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC05_MOE_VC26,Households not receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC06_EST_VC26,Percent households not receiving food stamps/SNAP; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC06_MOE_VC26,Percent households not receiving food stamps/SNAP; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - At or above poverty level
+HC01_EST_VC29,Total; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC01_MOE_VC29,Total; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC02_EST_VC29,Percent; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC02_MOE_VC29,Percent; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC03_EST_VC29,Households receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC03_MOE_VC29,Households receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC04_EST_VC29,Percent households receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC04_MOE_VC29,Percent households receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC05_EST_VC29,Households not receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC05_MOE_VC29,Households not receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC06_EST_VC29,Percent households not receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With one or more people with a disability
+HC06_MOE_VC29,Percent households not receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With one or more people with a disability
+HC01_EST_VC30,Total; Estimate; DISABILITY STATUS - With no persons with a disability
+HC01_MOE_VC30,Total; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC02_EST_VC30,Percent; Estimate; DISABILITY STATUS - With no persons with a disability
+HC02_MOE_VC30,Percent; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC03_EST_VC30,Households receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With no persons with a disability
+HC03_MOE_VC30,Households receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC04_EST_VC30,Percent households receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With no persons with a disability
+HC04_MOE_VC30,Percent households receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC05_EST_VC30,Households not receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With no persons with a disability
+HC05_MOE_VC30,Households not receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC06_EST_VC30,Percent households not receiving food stamps/SNAP; Estimate; DISABILITY STATUS - With no persons with a disability
+HC06_MOE_VC30,Percent households not receiving food stamps/SNAP; Margin of Error; DISABILITY STATUS - With no persons with a disability
+HC01_EST_VC33,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC01_MOE_VC33,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC02_EST_VC33,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC02_MOE_VC33,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC03_EST_VC33,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC03_MOE_VC33,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC04_EST_VC33,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC04_MOE_VC33,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC05_EST_VC33,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC05_MOE_VC33,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC06_EST_VC33,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC06_MOE_VC33,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - White alone
+HC01_EST_VC34,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC01_MOE_VC34,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC02_EST_VC34,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC02_MOE_VC34,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC03_EST_VC34,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC03_MOE_VC34,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC04_EST_VC34,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC04_MOE_VC34,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC05_EST_VC34,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC05_MOE_VC34,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC06_EST_VC34,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC06_MOE_VC34,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Black or African American alone
+HC01_EST_VC35,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC01_MOE_VC35,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC02_EST_VC35,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC02_MOE_VC35,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC03_EST_VC35,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC03_MOE_VC35,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC04_EST_VC35,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC04_MOE_VC35,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC05_EST_VC35,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC05_MOE_VC35,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC06_EST_VC35,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC06_MOE_VC35,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - American Indian and Alaska Native alone
+HC01_EST_VC36,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC01_MOE_VC36,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC02_EST_VC36,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC02_MOE_VC36,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC03_EST_VC36,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC03_MOE_VC36,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC04_EST_VC36,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC04_MOE_VC36,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC05_EST_VC36,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC05_MOE_VC36,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC06_EST_VC36,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC06_MOE_VC36,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Asian alone
+HC01_EST_VC37,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC01_MOE_VC37,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC02_EST_VC37,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC02_MOE_VC37,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC03_EST_VC37,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC03_MOE_VC37,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC04_EST_VC37,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC04_MOE_VC37,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC05_EST_VC37,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC05_MOE_VC37,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC06_EST_VC37,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC06_MOE_VC37,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Native Hawaiian and Other Pacific Islander alone
+HC01_EST_VC38,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC01_MOE_VC38,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC02_EST_VC38,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC02_MOE_VC38,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC03_EST_VC38,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC03_MOE_VC38,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC04_EST_VC38,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC04_MOE_VC38,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC05_EST_VC38,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC05_MOE_VC38,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC06_EST_VC38,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC06_MOE_VC38,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Some other race alone
+HC01_EST_VC39,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC01_MOE_VC39,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC02_EST_VC39,Percent; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC02_MOE_VC39,Percent; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC03_EST_VC39,Households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC03_MOE_VC39,Households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC04_EST_VC39,Percent households receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC04_MOE_VC39,Percent households receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC05_EST_VC39,Households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC05_MOE_VC39,Households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC06_EST_VC39,Percent households not receiving food stamps/SNAP; Estimate; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC06_MOE_VC39,Percent households not receiving food stamps/SNAP; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN OF HOUSEHOLDER - Two or more races
+HC01_EST_VC41,Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC41,Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC41,Percent; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC41,Percent; Margin of Error; Hispanic or Latino origin (of any race)
+HC03_EST_VC41,Households receiving food stamps/SNAP; Estimate; Hispanic or Latino origin (of any race)
+HC03_MOE_VC41,Households receiving food stamps/SNAP; Margin of Error; Hispanic or Latino origin (of any race)
+HC04_EST_VC41,Percent households receiving food stamps/SNAP; Estimate; Hispanic or Latino origin (of any race)
+HC04_MOE_VC41,Percent households receiving food stamps/SNAP; Margin of Error; Hispanic or Latino origin (of any race)
+HC05_EST_VC41,Households not receiving food stamps/SNAP; Estimate; Hispanic or Latino origin (of any race)
+HC05_MOE_VC41,Households not receiving food stamps/SNAP; Margin of Error; Hispanic or Latino origin (of any race)
+HC06_EST_VC41,Percent households not receiving food stamps/SNAP; Estimate; Hispanic or Latino origin (of any race)
+HC06_MOE_VC41,Percent households not receiving food stamps/SNAP; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC42,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC42,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC42,"Percent; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC42,"Percent; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC42,"Households receiving food stamps/SNAP; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC42,"Households receiving food stamps/SNAP; Margin of Error; White alone, not Hispanic or Latino"
+HC04_EST_VC42,"Percent households receiving food stamps/SNAP; Estimate; White alone, not Hispanic or Latino"
+HC04_MOE_VC42,"Percent households receiving food stamps/SNAP; Margin of Error; White alone, not Hispanic or Latino"
+HC05_EST_VC42,"Households not receiving food stamps/SNAP; Estimate; White alone, not Hispanic or Latino"
+HC05_MOE_VC42,"Households not receiving food stamps/SNAP; Margin of Error; White alone, not Hispanic or Latino"
+HC06_EST_VC42,"Percent households not receiving food stamps/SNAP; Estimate; White alone, not Hispanic or Latino"
+HC06_MOE_VC42,"Percent households not receiving food stamps/SNAP; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC45,Total; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC01_MOE_VC45,Total; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC02_EST_VC45,Percent; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC02_MOE_VC45,Percent; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC03_EST_VC45,Households receiving food stamps/SNAP; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC03_MOE_VC45,Households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC04_EST_VC45,Percent households receiving food stamps/SNAP; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC04_MOE_VC45,Percent households receiving food stamps/SNAP; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC05_EST_VC45,Households not receiving food stamps/SNAP; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC05_MOE_VC45,Households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC06_EST_VC45,Percent households not receiving food stamps/SNAP; Estimate; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC06_MOE_VC45,Percent households not receiving food stamps/SNAP; Margin of Error; HOUSEHOLD INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) - Median income (dollars)
+HC01_EST_VC48,Total; Estimate; WORK STATUS - Families
+HC01_MOE_VC48,Total; Margin of Error; WORK STATUS - Families
+HC02_EST_VC48,Percent; Estimate; WORK STATUS - Families
+HC02_MOE_VC48,Percent; Margin of Error; WORK STATUS - Families
+HC03_EST_VC48,Households receiving food stamps/SNAP; Estimate; WORK STATUS - Families
+HC03_MOE_VC48,Households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families
+HC04_EST_VC48,Percent households receiving food stamps/SNAP; Estimate; WORK STATUS - Families
+HC04_MOE_VC48,Percent households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families
+HC05_EST_VC48,Households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families
+HC05_MOE_VC48,Households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families
+HC06_EST_VC48,Percent households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families
+HC06_MOE_VC48,Percent households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families
+HC01_EST_VC49,Total; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC01_MOE_VC49,Total; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC02_EST_VC49,Percent; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC02_MOE_VC49,Percent; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC03_EST_VC49,Households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC03_MOE_VC49,Households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC04_EST_VC49,Percent households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC04_MOE_VC49,Percent households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC05_EST_VC49,Households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC05_MOE_VC49,Households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC06_EST_VC49,Percent households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - No workers in past 12 months
+HC06_MOE_VC49,Percent households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - No workers in past 12 months
+HC01_EST_VC50,Total; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC01_MOE_VC50,Total; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC02_EST_VC50,Percent; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC02_MOE_VC50,Percent; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC03_EST_VC50,Households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC03_MOE_VC50,Households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC04_EST_VC50,Percent households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC04_MOE_VC50,Percent households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC05_EST_VC50,Households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC05_MOE_VC50,Households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC06_EST_VC50,Percent households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 1 worker in past 12 months
+HC06_MOE_VC50,Percent households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 1 worker in past 12 months
+HC01_EST_VC51,Total; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC01_MOE_VC51,Total; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC02_EST_VC51,Percent; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC02_MOE_VC51,Percent; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC03_EST_VC51,Households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC03_MOE_VC51,Households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC04_EST_VC51,Percent households receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC04_MOE_VC51,Percent households receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC05_EST_VC51,Households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC05_MOE_VC51,Households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months
+HC06_EST_VC51,Percent households not receiving food stamps/SNAP; Estimate; WORK STATUS - Families - 2 or more workers in past 12 months
+HC06_MOE_VC51,Percent households not receiving food stamps/SNAP; Margin of Error; WORK STATUS - Families - 2 or more workers in past 12 months

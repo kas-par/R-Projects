@@ -1,0 +1,118 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Fern{\'a}ndez%
+\ \protect \BOthers {.}}{%
+Fern{\'a}ndez%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+imbalance}
+\APACinsertmetastar {%
+imbalance}%
+\begin{APACrefauthors}%
+Fern{\'a}ndez, A.%
+, Garc{\'\i}a, S.%
+, Galar, M.%
+, Prati, R\BPBI C.%
+, Krawczyk, B.%
+\BCBL {}\ \BBA {} Herrera, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2018}.
+\newblock
+\APACrefbtitle {Learning from Imbalanced Data Sets} {Learning from imbalanced
+  data sets}.
+\newblock
+\APACaddressPublisher{Cham, Switzerland}{Springer}.
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1007/978-3-319-98074-4}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+for Disease~Control%
+\ \BBA {} Prevention%
+}{%
+for Disease~Control%
+\ \BBA {} Prevention%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+Disease}
+\APACinsertmetastar {%
+Disease}%
+\begin{APACrefauthors}%
+for Disease~Control, C.%
+\BCBT {}\ \BBA {} Prevention.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{November}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Estimates of Foodborne Illness in the United States.}
+  {Estimates of foodborne illness in the united states.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Burden of Foodborne Illness}{}{}{}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cdc.gov/foodborneburden/2011-foodborne-estimates.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+James%
+, Witten%
+, Hastie%
+\BCBL {}\ \BBA {} Tibshirani%
+}{%
+James%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+James}
+\APACinsertmetastar {%
+James}%
+\begin{APACrefauthors}%
+James, G.%
+, Witten, D.%
+, Hastie, T.%
+\BCBL {}\ \BBA {} Tibshirani, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {An Introduction to Statistical Learning. with Applications in
+  R} {An introduction to statistical learning. with applications in r}\
+  (\PrintOrdinal{8th}\ \BEd).
+\newblock
+\APACaddressPublisher{New York Heidelberg Dordrecht London}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Van~Brummelen%
+}{%
+Van~Brummelen%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+haversine}
+\APACinsertmetastar {%
+haversine}%
+\begin{APACrefauthors}%
+Van~Brummelen, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Heavenly Mathematics. The forgotten Art of Spherical
+  Trigonometry} {Heavenly mathematics. the forgotten art of spherical
+  trigonometry}.
+\newblock
+\APACaddressPublisher{Princeton and Oxfordshire}{Princeton University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
